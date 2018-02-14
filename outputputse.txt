@@ -1,0 +1,71 @@
+------------------------------------
+Please Select an option (e to end)
+a - Add a Coin
+r - Remove a Coin
+d - Display purse
+d
+0 Penny .01
+0 Nickels .05
+0 Dimes .1
+5 Quarters .25
+Total $1.25
+------------------------------------
+Please Select an option (e to end)
+a - Add a Coin
+r - Remove a Coin
+d - Display purse
+a
+What type of coin would you like to add? p - Penny, n – Nickel , d - Dime, q - Quarter
+p
+------------------------------------
+Please Select an option (e to end)
+a - Add a Coin
+r - Remove a Coin
+d - Display purse
+a
+What type of coin would you like to add? p - Penny, n – Nickel , d - Dime, q - Quarter
+p
+------------------------------------
+Please Select an option (e to end)
+a - Add a Coin
+r - Remove a Coin
+d - Display purse
+r
+What type of coin would you like to remove? p - Penny, n – Nickel , d - Dime, q - Quarter
+q
+Coin: Quarter removed.
+------------------------------------
+Please Select an option (e to end)
+a - Add a Coin
+r - Remove a Coin
+d - Display purse
+------------------------------------
+Please Select an option (e to end)
+a - Add a Coin
+r - Remove a Coin
+d - Display purse
+r
+What type of coin would you like to remove? p - Penny, n – Nickel , d - Dime, q - Quarter
+q
+Coin: Quarter removed.
+------------------------------------
+Please Select an option (e to end)
+a - Add a Coin
+r - Remove a Coin
+d - Display purse
+------------------------------------
+Please Select an option (e to end)
+a - Add a Coin
+r - Remove a Coin
+d - Display purse
+d
+2 Penny .01
+0 Nickels .05
+0 Dimes .1
+3 Quarters .25
+Total $0.77
+------------------------------------
+Please Select an option (e to end)
+a - Add a Coin
+r - Remove a Coin
+d - Display purse
